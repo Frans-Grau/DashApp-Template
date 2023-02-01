@@ -9,6 +9,6 @@ dash.register_page(__name__, name ='XYZ')
 
 layout = html.Div(
     [
-        dbc.Row(dbc.Col(html.Div(html.H3(["Page3"])))),
+        dbc.Row(dbc.Col(html.Div(html.H3(["Page2"])))),
     ]
 )
